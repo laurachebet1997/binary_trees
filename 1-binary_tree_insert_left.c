@@ -2,9 +2,9 @@
 
 /**
  * binary_tree_node - create a node
- *
- *@parent: pointer to parent
- *@value: value
+ * @binary_tree_t: binary tree
+ * @parent: pointer to parent
+ * @value: value
  *
  * Return: pointer to the created node
  */
